@@ -8,9 +8,9 @@
         <Filename Value="drawingboard.lpr"/>
         <IsPartOfProject Value="True"/>
         <IsVisibleTab Value="True"/>
-        <CursorPos X="17" Y="14"/>
-        <UsageCount Value="23"/>
-        <Loaded Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="11" Y="13"/>
+        <UsageCount Value="24"/>
       </Unit0>
       <Unit1>
         <Filename Value="frm1.pas"/>
@@ -21,15 +21,13 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="227"/>
         <CursorPos X="4" Y="251"/>
-        <UsageCount Value="23"/>
+        <UsageCount Value="24"/>
       </Unit1>
     </Units>
-    <JumpHistory Count="1">
-      <Position1>
-        <Filename Value="drawingboard.lpr"/>
-        <Caret Line="4" Column="9"/>
-      </Position1>
-    </JumpHistory>
+    <General>
+      <ActiveWindowIndexAtStart Value="-1"/>
+    </General>
+    <JumpHistory HistoryIndex="-1"/>
     <RunParams>
       <FormatVersion Value="2"/>
       <Modes Count="0" ActiveMode="default"/>

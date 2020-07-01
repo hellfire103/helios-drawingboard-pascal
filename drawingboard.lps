@@ -7,10 +7,9 @@
       <Unit0>
         <Filename Value="drawingboard.lpr"/>
         <IsPartOfProject Value="True"/>
-        <IsVisibleTab Value="True"/>
         <EditorIndex Value="-1"/>
         <CursorPos X="11" Y="13"/>
-        <UsageCount Value="24"/>
+        <UsageCount Value="25"/>
       </Unit0>
       <Unit1>
         <Filename Value="frm1.pas"/>
@@ -18,15 +17,14 @@
         <ComponentName Value="Form1"/>
         <HasResources Value="True"/>
         <ResourceBaseClass Value="Form"/>
-        <EditorIndex Value="-1"/>
+        <IsVisibleTab Value="True"/>
         <TopLine Value="227"/>
         <CursorPos X="4" Y="251"/>
-        <UsageCount Value="24"/>
+        <UsageCount Value="25"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
       </Unit1>
     </Units>
-    <General>
-      <ActiveWindowIndexAtStart Value="-1"/>
-    </General>
     <JumpHistory HistoryIndex="-1"/>
     <RunParams>
       <FormatVersion Value="2"/>
